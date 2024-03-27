@@ -1,7 +1,8 @@
 {
   "name": "mad",
   "integrations": {
-    "capacitor": {}
+    "capacitor": {
+    }
   },
   "type": "vue-vite"
 }

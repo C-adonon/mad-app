@@ -1,56 +1,55 @@
 <template>
   <ion-page>
-    <ion-header :translucent="true">
-      <ion-toolbar>
-        <ion-title>Blank</ion-title>
-      </ion-toolbar>
-    </ion-header>
+    <ion-content>
+      <h1>Bienvenue au musée des arts décoratifs de Paris</h1>
+      <ul v-if="expositions">
+        <li v-for="exposition in expositions" :key="exposition.Id">
+          <router-link :to="`/expositions/${exposition.Id}`">{{ exposition.title }}</router-link>
+        </li>
+      </ul>
+      <div v-else>OK</div>
 
-    <ion-content :fullscreen="true">
-      <ion-header collapse="condense">
-        <ion-toolbar>
-          <ion-title size="large">Blank</ion-title>
-        </ion-toolbar>
-      </ion-header>
-
-      <div id="container">
-        <strong>Ready to create an app?</strong>
-        <p>Start with Ionic <a target="_blank" rel="noopener noreferrer" href="https://ionicframework.com/docs/components">UI Components</a></p>
-      </div>
+      <ul v-if="collectionCategories">
+        <li v-for="collcat in collectionCategories" :key="collcat.Id">
+          <router-link :to="`/collections/${collcat.Id}`">{{ collcat.longName }}</router-link>
+        </li>
+      </ul>
     </ion-content>
   </ion-page>
 </template>
 
 <script setup lang="ts">
-import { IonContent, IonHeader, IonPage, IonTitle, IonToolbar } from '@ionic/vue';
+import { IonPage, IonContent } from '@ionic/vue';
+import { getAllExpositions, getAllCollections, getAllCollectionCategories, } from '@/../services/data';
+import { Exposition, Collection, CollectionCategories } from '@/../services/types';
+import { ref, onMounted } from 'vue';
+
+let expositions = ref<Exposition[]>([]);
+let collectionCategories = ref<CollectionCategories[]>([]);
+
+async function fetchExpos() {
+  const expos = await getAllExpositions();
+  return expos;
+}
+
+async function fetchCollectionCategories() {
+  const collectionCat = await getAllCollectionCategories();
+  return collectionCat;
+}
+
+onMounted(async () => {
+  console.log('Home page mounted');
+  expositions.value = await fetchExpos();
+  console.log(expositions.value);
+  collectionCategories.value = await fetchCollectionCategories();
+  console.log(collectionCategories.value);
+});
 </script>
 
 <style scoped>
-#container {
+h1 {
+  font-size: 2em;
   text-align: center;
-  
-  position: absolute;
-  left: 0;
-  right: 0;
-  top: 50%;
-  transform: translateY(-50%);
-}
-
-#container strong {
-  font-size: 20px;
-  line-height: 26px;
-}
-
-#container p {
-  font-size: 16px;
-  line-height: 22px;
-  
-  color: #8c8c8c;
-  
-  margin: 0;
-}
-
-#container a {
-  text-decoration: none;
+  color: black;
 }
 </style>

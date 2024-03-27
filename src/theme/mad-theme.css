@@ -1,0 +1,55 @@
+/* @font-face {
+  font-family: 'MaisonNeue-Bold';
+  src: url(../assets/font/MaisonNeue-Bold.woff2) format('woff2');
+} */
+
+@font-face {
+  font-family: "MaisonNeueBold";
+  src: url(../assets/font/MaisonNeueBold.otf) format("otf");
+}
+@font-face {
+  font-family: "MaisonNeueDemi";
+  src: url(../assets/font/MaisonNeueDemi.otf) format("otf");
+}
+@font-face {
+  font-family: "MaisonNeueLight";
+  src: url(../assets/font/MaisonNeueLight.otf) format("otf");
+}
+@font-face {
+  font-family: "MaisonNeueMedium";
+  src: url(../assets/font/MaisonNeueMedium.otf) format("otf");
+}
+
+@font-face {
+  font-family: "LibreCaslonText-Regular";
+  src: url(../assets/font/LibreCaslonText-Regular.woff2) format("woff2");
+}
+
+:root {
+  --primary-black: #000000;
+  --primary-white: #ffffff;
+  --accent-pink: #cc0066;
+  --accent-gold: #cc9900;
+
+  --text-color: var(--primary-black);
+  --background-color: var(--primary-white);
+  --link-color: var(--accent-pink);
+
+  /* font-family: 'MaisonNeueLight', sans-serif; */
+}
+
+html {
+  --ion-dynamic-font: "LibreCaslonText-Regular", sans-serif;
+}
+
+h1 {
+  font-size: 2em;
+  text-align: center;
+  color: black;
+}
+
+.logo{
+  height: 100%;
+  width: auto;
+  object-fit: cover;
+}
