@@ -178,4 +178,10 @@ onUpdated(() => {
 ion-radio{
     --color-checked: var(--accent-gold);
 }
+
+ion-button{
+    --border-color: black;
+    --color: black;
+    --background-hover: var(--accent-gold);
+}
 </style>
