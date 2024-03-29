@@ -12,6 +12,6 @@ import { IonApp, IonRouterOutlet } from '@ionic/vue';
 
 <style>
 ion-router-outlet {
-  margin-top: 10dvh;
+  margin-top: 8dvh;
 }
 </style>
