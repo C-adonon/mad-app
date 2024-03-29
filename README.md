@@ -10,11 +10,11 @@ Cette application permet de découvrir le musée des arts décoratifs de Paris. 
 
 ### Ionic 7 avec VUE 3 pour le front
 
-Ionic est un framework open-source de développement d'applications mobiles multiplateformes. Il permet de créer des applications mobiles pour iOS, Android. Je l'ai choisis particulièrment parcequ'il possède une intégation avec VueJS 3 ce qui me permet de développer une application mobile en utilisant un framework que je maitrise déjà. De plus il propose des composants prêts à l'emploi pour le développement d'applications mobiles.
+Ionic est un framework open-source de développement d'applications mobiles multiplateformes. Il permet de créer des applications mobiles pour iOS, Android. Je l'ai choisis particulièrment parcequ'il possède une intégration avec VueJS 3 ce qui me permet de développer une application mobile en utilisant un framework que je maitrise déjà. De plus il propose des composants prêts à l'emploi pour le développement d'applications mobiles.
 
 ### NocoDB pour la base de données :
 
-NocoDB est une base de données no code similar à Airtable. Elle permet de créer des bases de données sans écrire de code. J'ai choisis cette solution pour sa simplicité d'utilisation, sa rapidité de mise en place et le fait qu'elle expose une API REST qui me permet de l'utiliser avec Ionic.
+NocoDB est une base de données no code similar à Airtable. Elle permet de créer des bases de données de manière simple. J'ai choisis cette solution pour sa simplicité d'utilisation, sa rapidité de mise en place et le fait qu'elle expose une API REST qui me permet de l'utiliser avec Ionic.
 
 https://w942egbw.nocodb.com/#/base/301f2ea4-15ee-4469-b055-44395984aa2b
 

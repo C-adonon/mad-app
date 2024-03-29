@@ -2,14 +2,15 @@
   <ion-page>
     <ion-content class="ion-padding">
       <h1>Musée des arts décoratifs de Paris</h1>
-      <swiper-container v-if="expositions" :pagination="true" :pagination-clickable="true" :centered-slides="true"
-        autoplay-delay="3500" :autoplay-disable-on-interaction="false" effect="fade" :navigation="true" :loop="true">
+      <!-- <swiper-container v-if="expositions" pagination="true" navigation="true" loop="true" autoplay-delay="3500"> -->
+        <swiper-container v-if="expositions" :pagination="true" :pagination-clickable="true" :centered-slides="true"
+        :autoplay-delay="3500" :autoplay-disable-on-interaction="false" effect="fade" :navigation="true" :loop="true">
         <swiper-slide v-for="exposition in expositions" :key="exposition.Id">
           <router-link :to="`/expositions/${exposition.Id}`">
-            <div class="slide-content">
-              <div class="title">{{ exposition.title }}</div>
-              <img :src="exposition.thumbnail[0].signedUrl" :alt="exposition.title" />
-            </div>
+          <div class="slide-content">
+            <div class="title">{{ exposition.title }}</div>
+            <img :src="exposition.thumbnail[0].signedUrl" :alt="exposition.title" />
+          </div>
           </router-link>
         </swiper-slide>
       </swiper-container>
@@ -119,12 +120,12 @@ a {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  z-index: 1;
+  /* z-index: 1; */
   font-size: 32px;
   font-family: "LibreCaslonText-Regular", serif;
   color: black;
   text-align: center;
-  background-color: rgba(255, 255, 255, 0.50);
+  background-color: rgba(255, 255, 255, 0.70);
   padding: 5%;
   width: 75%;
 }
