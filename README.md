@@ -23,11 +23,19 @@ https://w942egbw.nocodb.com/#/base/301f2ea4-15ee-4469-b055-44395984aa2b
 ## Schéma de la base de données
 
 La base de données contient 3 collections :
+
 - Collections : contient les différentes collections du musée
 - Collections-categories : contient les catégories des collections
 - Expositions : contient les expositions temporaires du musée
-  
+
 ![Schéma de la base de données](/screenshots/schema.jpg "Schéma de la base de données")
+
+## Point d'avancement
+
+[x] Moodboard
+[ ] Wireframe
+[x] Frontend
+[x] Backend
 
 ## Post mortem
 
@@ -39,6 +47,7 @@ La base de données contient 3 collections :
 ### Ce qui a été difficile
 
 - L'intégration d'un slider pour afficher les images des collections a été difficile car les composants <ion-slides> ont été déprécié . J'ai donc du chercher une solution alternative : https://swiperjs.com/.
+- Je n'avais pas d'inspiration pour le design de l'application. J'ai improvisé en utilisant les composants prêts à l'emploi d'Ionic.
 
 ### Ce qui n'a pas fonctionné
 
