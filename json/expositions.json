@@ -1,0 +1,456 @@
+{
+  "list": [
+    {
+      "Id": 1,
+      "title": "HENRY CROS (1840-1907), SCULPTEUR ET DESSINATEUR",
+      "thumbnail": [
+        {
+          "url": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/uploads/2024/03/25/e5e259977193c318cbb37a98561a74908dd09fb6/thumbnail_Z_kx2.jpg",
+          "title": "thumbnail.jpg",
+          "mimetype": "image/jpeg",
+          "size": 574501,
+          "signedUrl": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/uploads/2024/03/25/e5e259977193c318cbb37a98561a74908dd09fb6/thumbnail_Z_kx2.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIATUJCOBWTKOMQ5JMU%2F20240329%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20240329T080440Z&X-Amz-Expires=7520&X-Amz-Signature=214babeb74caba3e30f6e16b55240a30b79400173971c7eda9779350ffe1854e&X-Amz-SignedHeaders=host&x-id=GetObject"
+        }
+      ],
+      "startDate": "2024-03-06",
+      "endDate": "2024-05-26",
+      "description": "Le XIXe siècle nous réserve encore de belles découvertes, la figure méconnue du peintre, sculpteur, céramiste et verrier Henry Cros en est une. Grâce à l’important fonds de dessins de l’artiste, inventeur de la sculpture en pâte de verre, le musée des Arts décoratifs propose du 6 mars au 26 mai 2024, une monographie de cet artiste admiré par Auguste Rodin et Antoine Bourdelle, ami de Paul Verlaine et d’Édouard Manet. Était-il romantique, néo-classique, ou symboliste ? C’est une des questions posées par l’exposition « Henry Cros, 1840-1907, sculpteur et dessinateur », à travers plus de cent œuvres rassemblant sculptures, peintures et dessins, issues des collections du musée, aux côtés de quelques prêts exceptionnels. Les grandes thématiques de l’artiste sont présentées : portraits d’enfants attendrissants, figures d’une Antiquité rêvée et de contes de fées. La maîtrise technique de l’artiste est illustrée par plus de cinquante dessins et une trentaine de sculptures en verre, cire, terre cuite, bronze et marbre. Ce projet permet de faire découvrir l’œuvre d’Henry Cros, dont Bourdelle disait qu’il rassemble « toute l’Antiquité dans une âme nouvelle ».",
+      "images": [
+        {
+          "url": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/uploads/2024/03/25/e5e259977193c318cbb37a98561a74908dd09fb6/la_flamme_wwYMh.jpg",
+          "title": "la_flamme.jpg",
+          "mimetype": "image/jpeg",
+          "size": 628667,
+          "signedUrl": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/uploads/2024/03/25/e5e259977193c318cbb37a98561a74908dd09fb6/la_flamme_wwYMh.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIATUJCOBWTKOMQ5JMU%2F20240329%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20240329T080440Z&X-Amz-Expires=7520&X-Amz-Signature=b68ff4a1d744fdc63a5e21fd1c15c1e0c67a79d89c4d770399f0e900031c8d97&X-Amz-SignedHeaders=host&x-id=GetObject"
+        },
+        {
+          "url": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/uploads/2024/03/25/e5e259977193c318cbb37a98561a74908dd09fb6/la-muse-uranie_Bq2fc.jpg",
+          "title": "la-muse-uranie.jpg",
+          "mimetype": "image/jpeg",
+          "size": 723416,
+          "signedUrl": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/uploads/2024/03/25/e5e259977193c318cbb37a98561a74908dd09fb6/la-muse-uranie_Bq2fc.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIATUJCOBWTKOMQ5JMU%2F20240329%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20240329T080440Z&X-Amz-Expires=7520&X-Amz-Signature=2479c6a77f3938e9abdaedfae09adaab79a3c3b00fc6561ba32713c41eea4e45&X-Amz-SignedHeaders=host&x-id=GetObject"
+        },
+        {
+          "url": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/uploads/2024/03/25/e5e259977193c318cbb37a98561a74908dd09fb6/la-peinture_LQTTR.jpg",
+          "title": "la-peinture.jpg",
+          "mimetype": "image/jpeg",
+          "size": 595376,
+          "signedUrl": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/uploads/2024/03/25/e5e259977193c318cbb37a98561a74908dd09fb6/la-peinture_LQTTR.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIATUJCOBWTKOMQ5JMU%2F20240329%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20240329T080440Z&X-Amz-Expires=7520&X-Amz-Signature=49c37ed5fef4880799ab7d1288220574fd21f0c68b0d49d87a062764785876d8&X-Amz-SignedHeaders=host&x-id=GetObject"
+        },
+        {
+          "url": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/uploads/2024/03/25/e5e259977193c318cbb37a98561a74908dd09fb6/projet-de-bas-relief-amazone_V1fME.jpg",
+          "title": "projet-de-bas-relief-amazone.jpg",
+          "mimetype": "image/jpeg",
+          "size": 823762,
+          "signedUrl": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/uploads/2024/03/25/e5e259977193c318cbb37a98561a74908dd09fb6/projet-de-bas-relief-amazone_V1fME.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIATUJCOBWTKOMQ5JMU%2F20240329%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20240329T080440Z&X-Amz-Expires=7520&X-Amz-Signature=58fa5aa2ef17c242d24a86c930b16b78bcd303eb955aee3b3a99627b2499ca6a&X-Amz-SignedHeaders=host&x-id=GetObject"
+        },
+        {
+          "url": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/uploads/2024/03/25/e5e259977193c318cbb37a98561a74908dd09fb6/thumbnail_BmAAv.jpg",
+          "title": "thumbnail.jpg",
+          "mimetype": "image/jpeg",
+          "size": 574501,
+          "signedUrl": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/uploads/2024/03/25/e5e259977193c318cbb37a98561a74908dd09fb6/thumbnail_BmAAv.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIATUJCOBWTKOMQ5JMU%2F20240329%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20240329T080440Z&X-Amz-Expires=7520&X-Amz-Signature=0c57eb19584373544b4a581bb5f140c7243af507f7cdca8f3a1fa3778de72fbb&X-Amz-SignedHeaders=host&x-id=GetObject"
+        },
+        {
+          "url": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/uploads/2024/03/25/e5e259977193c318cbb37a98561a74908dd09fb6/vase-pastorale_Ey522.jpg",
+          "title": "vase-pastorale.jpg",
+          "mimetype": "image/jpeg",
+          "size": 549900,
+          "signedUrl": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/uploads/2024/03/25/e5e259977193c318cbb37a98561a74908dd09fb6/vase-pastorale_Ey522.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIATUJCOBWTKOMQ5JMU%2F20240329%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20240329T080440Z&X-Amz-Expires=7520&X-Amz-Signature=d4fee919b0c2e1fd095db8bc315b081136e0e9c211b39f8d2364279e47edf1f4&X-Amz-SignedHeaders=host&x-id=GetObject"
+        }
+      ],
+      "curator": "Jean-Luc OLIVIÉ, conservateur, collections verre<br />Véronique AYROLES, assistante de conservation, collections verre",
+      "activities": "**<u>ACTIVITÉS INDIVIDUELLES :</u>**\n\nINDIVIDUELS ADULTES\n\n**Henry Cros (1840-1907), Sculpteur et dessinateur :**\n\nVisite guidée adultes (15 ans et +), 1H30<br />\n\n**<u>ACTIVITÉS POUR LES GROUPES :</u>**\n\nGROUPES ADULTES / ÉDUCATION\n\n**Henry Cros (1840-1907), sculpteur et dessinateur :**\n\nVisite guidée adulte en français et en anglais – 1h30 / 15 ans et +",
+      "video": "<iframe width=\"1090\" height=\"614\" src=\"https://www.youtube.com/embed/tI_--fLsBj8\" title=\"Étapes de fabrication d&#39;un masque en pâte de verre d&#39;Henry Cros,  vers 1898\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+      "individualTickets": "https://billetterie.madparis.fr/activite/2849/",
+      "groupTickets": "https://billetterie.madparis.fr/activite/2826/",
+      "audioGuide": [
+        {
+          "url": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/uploads/2024/03/28/e5e259977193c318cbb37a98561a74908dd09fb6/henry-cros_8EjTo.mp3",
+          "title": "henry-cros.mp3",
+          "mimetype": "audio/mpeg",
+          "size": 427197,
+          "signedUrl": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/uploads/2024/03/28/e5e259977193c318cbb37a98561a74908dd09fb6/henry-cros_8EjTo.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIATUJCOBWTKOMQ5JMU%2F20240329%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20240329T080440Z&X-Amz-Expires=7520&X-Amz-Signature=c8b45e5e0ed49ea212d78a71301ded00b967fd8444d504c1daf1e46c5abf7d6a&X-Amz-SignedHeaders=host&x-id=GetObject"
+        }
+      ],
+      "IndividualActivities": "INDIVIDUELS ADULTES\nHenry Cros (1840-1907), Sculpteur et dessinateur :\nVisite guidée adultes (15 ans et +), 1H30",
+      "groupActivities": "GROUPES ADULTES / ÉDUCATION\nHenry Cros (1840-1907), sculpteur et dessinateur :\nVisite guidée adulte en français et en anglais – 1h30 / 15 ans et +",
+      "length": 3600,
+      "CreatedAt": "2024-03-25 12:33:36+00:00",
+      "UpdatedAt": "2024-03-29 03:05:59+00:00"
+    },
+    {
+      "Id": 2,
+      "title": "IRIS VAN HERPEN. SCULPTING THE SENSES",
+      "thumbnail": [
+        {
+          "url": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/uploads/2024/03/25/e5e259977193c318cbb37a98561a74908dd09fb6/haut-hypersonic-speed_R_pJc.jpg",
+          "title": "haut-hypersonic-speed.jpg",
+          "mimetype": "image/jpeg",
+          "size": 667103,
+          "signedUrl": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/uploads/2024/03/25/e5e259977193c318cbb37a98561a74908dd09fb6/haut-hypersonic-speed_R_pJc.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIATUJCOBWTKOMQ5JMU%2F20240329%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20240329T080440Z&X-Amz-Expires=7520&X-Amz-Signature=477edd202f5111643ad62d587aa354ae570cfd857cb52850d61b58187afb651f&X-Amz-SignedHeaders=host&x-id=GetObject"
+        }
+      ],
+      "startDate": "2023-11-29",
+      "endDate": "2024-04-28",
+      "description": "Organisée au musée des Arts Décoratifs, du 29 novembre 2023 au 28 avril 2024, l’exposition « Iris van Herpen. Sculpting the Senses » rend hommage à l’une des créatrices de mode les plus visionnaires de sa génération. Pionnière dans l’usage des nouvelles technologies dans sa discipline, Iris van Herpen transgresse les normes conventionnelles du vêtement, ouverte tout autant aux savoir-faire traditionnels que prospectifs.\n\nAllant du micro au macro, l’exposition interroge la place du corps dans l’espace, son rapport au vêtement et à son environnement, son avenir dans un monde en pleine mutation. Une sélection de plus de 100 pièces de haute couture réalisées par Iris van Herpen dialoguent avec des œuvres d’art contemporain, telles que celles de Philip Beesley, du Collectif Mé, Wim Delvoye, Rogan Brown, Kate MccGwire, Damien Jalet, Kohei Nawa, Casey Curran, Jacques Rougerie, ainsi que des créations de design de Neri Oxman, Ren Ri, Ferruccio Laviani et Tomáš Libertíny, et des pièces provenant des sciences naturelles comme des coraux ou des fossiles créant une résonance unique avec des pièces historiques. L’exposition est présentée dans les galeries de la mode Christine & Stephen A. Schwarzman.",
+      "images": [
+        {
+          "url": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/uploads/2024/03/25/e5e259977193c318cbb37a98561a74908dd09fb6/bustier-arachne_2gUb0.jpg",
+          "title": "bustier-arachne.jpg",
+          "mimetype": "image/jpeg",
+          "size": 879647,
+          "signedUrl": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/uploads/2024/03/25/e5e259977193c318cbb37a98561a74908dd09fb6/bustier-arachne_2gUb0.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIATUJCOBWTKOMQ5JMU%2F20240329%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20240329T080440Z&X-Amz-Expires=7520&X-Amz-Signature=4c1f13d3843cd61ac5f0b0c49e3934704c666d25973d91b0478168b84a4c5fc7&X-Amz-SignedHeaders=host&x-id=GetObject"
+        },
+        {
+          "url": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/uploads/2024/03/25/e5e259977193c318cbb37a98561a74908dd09fb6/crystallization_LNLEl.jpg",
+          "title": "crystallization.jpg",
+          "mimetype": "image/jpeg",
+          "size": 329467,
+          "signedUrl": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/uploads/2024/03/25/e5e259977193c318cbb37a98561a74908dd09fb6/crystallization_LNLEl.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIATUJCOBWTKOMQ5JMU%2F20240329%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20240329T080440Z&X-Amz-Expires=7520&X-Amz-Signature=e825ebabac73215e6f33c249a9c5de3de2130cdb2dd37800a0d004bedc78ff74&X-Amz-SignedHeaders=host&x-id=GetObject"
+        },
+        {
+          "url": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/uploads/2024/03/25/e5e259977193c318cbb37a98561a74908dd09fb6/diverses_HTyj-.jpg",
+          "title": "diverses.jpg",
+          "mimetype": "image/jpeg",
+          "size": 398904,
+          "signedUrl": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/uploads/2024/03/25/e5e259977193c318cbb37a98561a74908dd09fb6/diverses_HTyj-.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIATUJCOBWTKOMQ5JMU%2F20240329%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20240329T080440Z&X-Amz-Expires=7520&X-Amz-Signature=0c896db512ba8975cb4e9c56ffd449aec504d7978e2c4344410660827ca700ae&X-Amz-SignedHeaders=host&x-id=GetObject"
+        },
+        {
+          "url": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/uploads/2024/03/25/e5e259977193c318cbb37a98561a74908dd09fb6/haut-hypersonic-speed_h2WAY.jpg",
+          "title": "haut-hypersonic-speed.jpg",
+          "mimetype": "image/jpeg",
+          "size": 667103,
+          "signedUrl": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/uploads/2024/03/25/e5e259977193c318cbb37a98561a74908dd09fb6/haut-hypersonic-speed_h2WAY.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIATUJCOBWTKOMQ5JMU%2F20240329%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20240329T080440Z&X-Amz-Expires=7520&X-Amz-Signature=30c3e1634d859947414962cabdde18d8d0325794716bc77c397fdc78508caea4&X-Amz-SignedHeaders=host&x-id=GetObject"
+        },
+        {
+          "url": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/uploads/2024/03/25/e5e259977193c318cbb37a98561a74908dd09fb6/robe-hydrozoa_odu6_.jpg",
+          "title": "robe-hydrozoa.jpg",
+          "mimetype": "image/jpeg",
+          "size": 322285,
+          "signedUrl": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/uploads/2024/03/25/e5e259977193c318cbb37a98561a74908dd09fb6/robe-hydrozoa_odu6_.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIATUJCOBWTKOMQ5JMU%2F20240329%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20240329T080440Z&X-Amz-Expires=7520&X-Amz-Signature=0481999957d78641da5b1281734d83318e6e07d9587e77b39ca5e1fa5c1e0f9f&X-Amz-SignedHeaders=host&x-id=GetObject"
+        },
+        {
+          "url": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/uploads/2024/03/25/e5e259977193c318cbb37a98561a74908dd09fb6/robe-sensory-seas-robe-nautiloid_sJXD6.jpg",
+          "title": "robe-sensory-seas-robe-nautiloid.jpg",
+          "mimetype": "image/jpeg",
+          "size": 535797,
+          "signedUrl": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/uploads/2024/03/25/e5e259977193c318cbb37a98561a74908dd09fb6/robe-sensory-seas-robe-nautiloid_sJXD6.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIATUJCOBWTKOMQ5JMU%2F20240329%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20240329T080440Z&X-Amz-Expires=7520&X-Amz-Signature=d1087762f920053525eccb8cbbb3238ac926aabd4671b38d1c1280794e292bca&X-Amz-SignedHeaders=host&x-id=GetObject"
+        },
+        {
+          "url": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/uploads/2024/03/25/e5e259977193c318cbb37a98561a74908dd09fb6/robe-skeleton_Iypqy.jpg",
+          "title": "robe-skeleton.jpg",
+          "mimetype": "image/jpeg",
+          "size": 913273,
+          "signedUrl": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/uploads/2024/03/25/e5e259977193c318cbb37a98561a74908dd09fb6/robe-skeleton_Iypqy.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIATUJCOBWTKOMQ5JMU%2F20240329%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20240329T080440Z&X-Amz-Expires=7520&X-Amz-Signature=cfa14773809be30558feb5e8089ba3fb0447198d24244a5a80a5adc6435ea275&X-Amz-SignedHeaders=host&x-id=GetObject"
+        }
+      ],
+      "curator": "Cloé PITIOT, conservatrice au département moderne et contemporain<br />Louise CURTIS, assistante de conservation au département moderne et contemporain",
+      "activities": "**<u>ACTIVITÉS INDIVIDUELLES :</u>**\n\n### INDIVIDUELS ADULTES\n\n**Iris van Herpen. Sculpting the Senses :**\n\n*   Visite guidée adultes (15 ans et +), durée : 1H30 (Visite guidée disponible en anglais / English Guided Tour available)<br />\n    \n\n### INDIVIDUELS JEUNES ET FAMILLES\n\n**Mini merveilles :**\n\n*   Atelier 4-6 ans, 2H\n    \n*   Atelier 7-10 ans, 2H\n    \n*   Atelier en famille (4 ans et +), 2H\n    \n    <br />\n    \n\n**L'atelier de la mode :**\n\n*   Stage 11-14 ans, 4 séances de 2H30 du mardi au vendredi\n    \n    <br />\n    \n\n**<u>ACTIVITÉS POUR LES GROUPES :</u>**\n\nGROUPES ADULTES\n\n**Iris van Herpen, une autre vision de la mode :**\n\nVisite guidée adulte en français et en anglais – 1h30 / 15 ans et +<br />\n\n**Explorations naturelles :**\n\nVisite-atelier champ social adultes<br />\n\nGROUPES ÉDUCATION\n\n**Iris van Herpen, une autre vision de la mode :**\n\nVisite guidée – 1h30 / À partir du lycée<br />\n\n**Mini Merveilles :**\n\nVisite-atelier - 2h / 4-6 ans, 7-10 ans, primaire (à partir de la grande section)\n\n<br />**Explorations naturelles :**\n\nVisite-atelier - 2h / 11-18 ans, pour les collèges et lycées professionnels",
+      "video": "<iframe width=\"1090\" height=\"614\" src=\"https://www.youtube.com/embed/M6ETr0ew4lg\" title=\"Exposition « Iris van Herpen : Sculpting the Senses *»\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+      "individualTickets": "https://billetterie.madparis.fr/activite/2686/",
+      "groupTickets": "https://billetterie.madparis.fr/activite/2819/",
+      "audioGuide": [
+        {
+          "url": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/uploads/2024/03/28/e5e259977193c318cbb37a98561a74908dd09fb6/iris-van-herpen_hmZFN.mp3",
+          "title": "iris-van-herpen.mp3",
+          "mimetype": "audio/mpeg",
+          "size": 885837,
+          "signedUrl": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/uploads/2024/03/28/e5e259977193c318cbb37a98561a74908dd09fb6/iris-van-herpen_hmZFN.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIATUJCOBWTKOMQ5JMU%2F20240329%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20240329T080440Z&X-Amz-Expires=7520&X-Amz-Signature=b49f706ba971c679b06c206e2f7548ba167d4b6fc975e0f0b03abc5dcf775842&X-Amz-SignedHeaders=host&x-id=GetObject"
+        }
+      ],
+      "IndividualActivities": "INDIVIDUELS ADULTES\nIris van Herpen. Sculpting the Senses :\nVisite guidée adultes (15 ans et +), durée : 1H30 (Visite guidée disponible en anglais / English Guided Tour available)\nINDIVIDUELS JEUNES ET FAMILLES\nMini merveilles :\nAtelier 4-6 ans, 2H\nAtelier 7-10 ans, 2H\nAtelier en famille (4 ans et +), 2H\nL'atelier de la mode :\nStage 11-14 ans, 4 séances de 2H30 du mardi au vendredi",
+      "groupActivities": "GROUPES ADULTES\nIris van Herpen, une autre vision de la mode :\nVisite guidée adulte en français et en anglais – 1h30 / 15 ans et +\nExplorations naturelles :\nVisite-atelier champ social adultes\nGROUPES ÉDUCATION\nIris van Herpen, une autre vision de la mode :\nVisite guidée – 1h30 / À partir du lycée\nMini Merveilles :\nVisite-atelier - 2h / 4-6 ans, 7-10 ans, primaire (à partir de la grande section)\nExplorations naturelles :\nVisite-atelier - 2h / 11-18 ans, pour les collèges et lycées professionnels",
+      "length": 7200,
+      "CreatedAt": "2024-03-25 13:04:05+00:00",
+      "UpdatedAt": "2024-03-29 03:07:13+00:00"
+    },
+    {
+      "Id": 3,
+      "title": "MODE ET SPORT, D’UN PODIUM À L’AUTRE",
+      "thumbnail": [
+        {
+          "url": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/uploads/2024/03/25/e5e259977193c318cbb37a98561a74908dd09fb6/mad_mode_et_sport_affiches_xgdMm.jpg",
+          "title": "mad_mode_et_sport_affiches.jpg",
+          "mimetype": "image/jpeg",
+          "size": 210542,
+          "signedUrl": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/uploads/2024/03/25/e5e259977193c318cbb37a98561a74908dd09fb6/mad_mode_et_sport_affiches_xgdMm.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIATUJCOBWTKOMQ5JMU%2F20240329%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20240329T080440Z&X-Amz-Expires=7520&X-Amz-Signature=efd6d2fadef5d67213f02538a09a87b23f7b9e09659c5d7688d3bc02dd35cf5a&X-Amz-SignedHeaders=host&x-id=GetObject"
+        }
+      ],
+      "startDate": "2023-09-20",
+      "endDate": "2024-04-07",
+      "description": "Dans la perspective des Jeux olympiques de 2024, le musée des Arts décoratifs de Paris présente, du 20 septembre 2023 au 7 avril 2024, « Mode et sport, d’un podium à l’autre » une exposition qui explore les liens fascinants qui unissent la mode et le sport, de l’Antiquité à nos jours. Ce projet d’envergure révèle comment deux univers a priori éloignés participent des mêmes enjeux sociaux, autour du corps.",
+      "images": [
+        {
+          "url": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/uploads/2024/03/25/e5e259977193c318cbb37a98561a74908dd09fb6/dior-2022_RYwfG.jpg",
+          "title": "dior-2022.jpg",
+          "mimetype": "image/jpeg",
+          "size": 146501,
+          "signedUrl": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/uploads/2024/03/25/e5e259977193c318cbb37a98561a74908dd09fb6/dior-2022_RYwfG.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIATUJCOBWTKOMQ5JMU%2F20240329%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20240329T080440Z&X-Amz-Expires=7520&X-Amz-Signature=4559981843ad5616467ee125a977cb6f617af9a64b8db190f1a4b4cb2ab73e9b&X-Amz-SignedHeaders=host&x-id=GetObject"
+        },
+        {
+          "url": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/uploads/2024/03/25/e5e259977193c318cbb37a98561a74908dd09fb6/mad_mode_et_sport_affiches_igAPz.jpg",
+          "title": "mad_mode_et_sport_affiches.jpg",
+          "mimetype": "image/jpeg",
+          "size": 210542,
+          "signedUrl": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/uploads/2024/03/25/e5e259977193c318cbb37a98561a74908dd09fb6/mad_mode_et_sport_affiches_igAPz.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIATUJCOBWTKOMQ5JMU%2F20240329%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20240329T080440Z&X-Amz-Expires=7520&X-Amz-Signature=16e300189a075f85d91473f06716ab6c6de3398328345045b9046888b0ca9e08&X-Amz-SignedHeaders=host&x-id=GetObject"
+        },
+        {
+          "url": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/uploads/2024/03/25/e5e259977193c318cbb37a98561a74908dd09fb6/mode_et_sport_002_TclaS.jpg",
+          "title": "mode_et_sport_002.jpg",
+          "mimetype": "image/jpeg",
+          "size": 529114,
+          "signedUrl": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/uploads/2024/03/25/e5e259977193c318cbb37a98561a74908dd09fb6/mode_et_sport_002_TclaS.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIATUJCOBWTKOMQ5JMU%2F20240329%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20240329T080440Z&X-Amz-Expires=7520&X-Amz-Signature=5f6e54d08c208b9a7076dc69f864c78cd1744fffee5e0f49445cf300e1b08e67&X-Amz-SignedHeaders=host&x-id=GetObject"
+        },
+        {
+          "url": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/uploads/2024/03/25/e5e259977193c318cbb37a98561a74908dd09fb6/mode_et_sport_004_FaXtQ.jpg",
+          "title": "mode_et_sport_004.jpg",
+          "mimetype": "image/jpeg",
+          "size": 588723,
+          "signedUrl": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/uploads/2024/03/25/e5e259977193c318cbb37a98561a74908dd09fb6/mode_et_sport_004_FaXtQ.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIATUJCOBWTKOMQ5JMU%2F20240329%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20240329T080440Z&X-Amz-Expires=7520&X-Amz-Signature=ac2b4664a7cdd7c391c498c52a988919ca60a8c1f85b5e907f48aabfb3abf1ca&X-Amz-SignedHeaders=host&x-id=GetObject"
+        },
+        {
+          "url": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/uploads/2024/03/25/e5e259977193c318cbb37a98561a74908dd09fb6/mode_et_sport_007_B1o1m.jpg",
+          "title": "mode_et_sport_007.jpg",
+          "mimetype": "image/jpeg",
+          "size": 383048,
+          "signedUrl": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/uploads/2024/03/25/e5e259977193c318cbb37a98561a74908dd09fb6/mode_et_sport_007_B1o1m.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIATUJCOBWTKOMQ5JMU%2F20240329%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20240329T080440Z&X-Amz-Expires=7520&X-Amz-Signature=4db51fd81e7c72f9c714e649523a40f5b8931678c2e06da72edc2f4431484dfe&X-Amz-SignedHeaders=host&x-id=GetObject"
+        },
+        {
+          "url": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/uploads/2024/03/25/e5e259977193c318cbb37a98561a74908dd09fb6/mode_et_sport_009_ZFPVb.jpg",
+          "title": "mode_et_sport_009.jpg",
+          "mimetype": "image/jpeg",
+          "size": 296742,
+          "signedUrl": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/uploads/2024/03/25/e5e259977193c318cbb37a98561a74908dd09fb6/mode_et_sport_009_ZFPVb.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIATUJCOBWTKOMQ5JMU%2F20240329%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20240329T080440Z&X-Amz-Expires=7520&X-Amz-Signature=f4095f2c42cc5b94237a2cec689dc50fecd32df14ff67aa4dfcf872273591b6a&X-Amz-SignedHeaders=host&x-id=GetObject"
+        },
+        {
+          "url": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/uploads/2024/03/25/e5e259977193c318cbb37a98561a74908dd09fb6/mode_et_sport_010_djUOf.jpg",
+          "title": "mode_et_sport_010.jpg",
+          "mimetype": "image/jpeg",
+          "size": 575702,
+          "signedUrl": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/uploads/2024/03/25/e5e259977193c318cbb37a98561a74908dd09fb6/mode_et_sport_010_djUOf.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIATUJCOBWTKOMQ5JMU%2F20240329%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20240329T080440Z&X-Amz-Expires=7520&X-Amz-Signature=604037c989e9ded952e41652b25957a7d9ff92dcd8f840b9c398d17392773902&X-Amz-SignedHeaders=host&x-id=GetObject"
+        },
+        {
+          "url": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/uploads/2024/03/25/e5e259977193c318cbb37a98561a74908dd09fb6/mode_et_sport_012_-7npm.jpg",
+          "title": "mode_et_sport_012.jpg",
+          "mimetype": "image/jpeg",
+          "size": 311117,
+          "signedUrl": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/uploads/2024/03/25/e5e259977193c318cbb37a98561a74908dd09fb6/mode_et_sport_012_-7npm.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIATUJCOBWTKOMQ5JMU%2F20240329%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20240329T080440Z&X-Amz-Expires=7520&X-Amz-Signature=76054659155251cfdb00755f58a5e21f077625007294f3a63d72753d0e4371ff&X-Amz-SignedHeaders=host&x-id=GetObject"
+        },
+        {
+          "url": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/uploads/2024/03/25/e5e259977193c318cbb37a98561a74908dd09fb6/mode_et_sport_021_ADGsk.jpg",
+          "title": "mode_et_sport_021.jpg",
+          "mimetype": "image/jpeg",
+          "size": 242061,
+          "signedUrl": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/uploads/2024/03/25/e5e259977193c318cbb37a98561a74908dd09fb6/mode_et_sport_021_ADGsk.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIATUJCOBWTKOMQ5JMU%2F20240329%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20240329T080440Z&X-Amz-Expires=7520&X-Amz-Signature=f172b36a475806d7953abc103d80e26cb7fe0e76daf7da504b392a2f274fbe62&X-Amz-SignedHeaders=host&x-id=GetObject"
+        }
+      ],
+      "curator": "Sophie LEMAHIEU, Conservatrice au département Mode et Textile, collections de 1947 à nos jours",
+      "activities": "**<u>ACTIVITÉS INDIVIDUELLES :</u>**\n\nINDIVIDUELS ADULTES\n\n**Mode et sport, d'un podium à l'autre :**\n\nVisite guidée adultes (15 ans et +), 1H30<br>\n\n**Rouler pour s’émanciper : la jupe-culotte :**\n\nConférence, 1H30<br>\n\n**<u>ACTIVITÉS POUR LES GROUPES :</u>**\n\nINDIVIDUELS JEUNES ET FAMILLES\n\n**3, 2, 1 jouez ! :**\n\nCahier de dessin (à partir de 5 ans), _À disposition à l’accueil - gratuit._<br>\n\n**Bien dans tes chaussettes ! :**\n\nAtelier 7-10 ans, 2H",
+      "video": "<iframe width=\"1090\" height=\"614\" src=\"https://www.youtube.com/embed/ShO29OFb3hM\" title=\"Découvrez l&#39;exposition « Mode et sport, d&#39;un podium à l&#39;autre »\u2060\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+      "individualTickets": "https://billetterie.madparis.fr/activite/2674/",
+      "groupTickets": "https://billetterie.madparis.fr/activite/2801/",
+      "audioGuide": [
+        {
+          "url": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/uploads/2024/03/28/e5e259977193c318cbb37a98561a74908dd09fb6/mode-sport_ezey5.mp3",
+          "title": "mode-sport.mp3",
+          "mimetype": "audio/mpeg",
+          "size": 904845,
+          "signedUrl": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/uploads/2024/03/28/e5e259977193c318cbb37a98561a74908dd09fb6/mode-sport_ezey5.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIATUJCOBWTKOMQ5JMU%2F20240329%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20240329T080440Z&X-Amz-Expires=7520&X-Amz-Signature=fdc2f83b1df51f9c42fecf73b1be01bc92b481c30aa661de782a070d3356169c&X-Amz-SignedHeaders=host&x-id=GetObject"
+        }
+      ],
+      "IndividualActivities": "INDIVIDUELS ADULTES\nMode et sport, d'un podium à l'autre :\nVisite guidée adultes (15 ans et +), 1H30\nRouler pour s’émanciper : la jupe-culotte :\nConférence, 1H30",
+      "groupActivities": "INDIVIDUELS JEUNES ET FAMILLES\n3, 2, 1 jouez ! :\nCahier de dessin (à partir de 5 ans), À disposition à l’accueil - gratuit.\nBien dans tes chaussettes ! :\nAtelier 7-10 ans, 2H",
+      "length": 7200,
+      "CreatedAt": "2024-03-25 13:19:43+00:00",
+      "UpdatedAt": "2024-03-29 03:08:07+00:00"
+    },
+    {
+      "Id": 4,
+      "title": "PARCOURS MODE, BIJOUX, DESIGN",
+      "thumbnail": [
+        {
+          "url": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/uploads/2024/03/25/e5e259977193c318cbb37a98561a74908dd09fb6/haute-couture23_02OML.jpg",
+          "title": "haute-couture23.jpg",
+          "mimetype": "image/jpeg",
+          "size": 1073187,
+          "signedUrl": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/uploads/2024/03/25/e5e259977193c318cbb37a98561a74908dd09fb6/haute-couture23_02OML.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIATUJCOBWTKOMQ5JMU%2F20240329%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20240329T080440Z&X-Amz-Expires=7520&X-Amz-Signature=4cb658cad4a43793a2f0245f8b394f2bef02baff16aeef78eb65b05a5d5def9b&X-Amz-SignedHeaders=host&x-id=GetObject"
+        }
+      ],
+      "startDate": "2024-04-03",
+      "endDate": "2024-11-10",
+      "description": "Le musée des Arts décoratifs présente pour la première fois une sélection de pièces de haute couture et de prêt‑à‑porter ainsi que de joaillerie et de bijoux fantaisie, dans les galeries permanentes dédiées au design du XXe siècle jusqu’à nos jours. 30 silhouettes de mode et 100 bijoux de créateurs et de prestigieuses maisons tels que Cartier, Van Cleef & Arpels, Christian Dior, Lanvin ou encore Balmain, dialoguent avec les grands noms du design comme Ettore Sottsass, Ron Arad, Phillipe Starck et les frères Campana. Cette présentation permet de révéler les nouvelles acquisitions de ces trois domaines.",
+      "images": [
+        {
+          "url": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/uploads/2024/03/25/e5e259977193c318cbb37a98561a74908dd09fb6/cabinet-cocoon4_Ucu7U.jpg",
+          "title": "cabinet-cocoon4.jpg",
+          "mimetype": "image/jpeg",
+          "size": 244797,
+          "signedUrl": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/uploads/2024/03/25/e5e259977193c318cbb37a98561a74908dd09fb6/cabinet-cocoon4_Ucu7U.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIATUJCOBWTKOMQ5JMU%2F20240329%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20240329T080440Z&X-Amz-Expires=7520&X-Amz-Signature=8a296825401dbccb5d6d5927ea6ec11c68eef39fb0ac0f20c79ec8b2eb895f28&X-Amz-SignedHeaders=host&x-id=GetObject"
+        },
+        {
+          "url": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/uploads/2024/03/25/e5e259977193c318cbb37a98561a74908dd09fb6/chair-by-its-cover_Pjwtp.jpg",
+          "title": "chair-by-its-cover.jpg",
+          "mimetype": "image/jpeg",
+          "size": 522895,
+          "signedUrl": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/uploads/2024/03/25/e5e259977193c318cbb37a98561a74908dd09fb6/chair-by-its-cover_Pjwtp.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIATUJCOBWTKOMQ5JMU%2F20240329%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20240329T080440Z&X-Amz-Expires=7520&X-Amz-Signature=8009a376f1efbcf232bf30972c72abd201940b4da8f1a5cb303950a662bbdbff&X-Amz-SignedHeaders=host&x-id=GetObject"
+        },
+        {
+          "url": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/uploads/2024/03/25/e5e259977193c318cbb37a98561a74908dd09fb6/collier-inner-crease_lqLdh.jpg",
+          "title": "collier-inner-crease.jpg",
+          "mimetype": "image/jpeg",
+          "size": 374853,
+          "signedUrl": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/uploads/2024/03/25/e5e259977193c318cbb37a98561a74908dd09fb6/collier-inner-crease_lqLdh.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIATUJCOBWTKOMQ5JMU%2F20240329%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20240329T080440Z&X-Amz-Expires=7520&X-Amz-Signature=ecdbb201ae96613e98dc8bdf321aca8a1ae432f47bed59dd7257bdaa5318c09e&X-Amz-SignedHeaders=host&x-id=GetObject"
+        },
+        {
+          "url": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/uploads/2024/03/25/e5e259977193c318cbb37a98561a74908dd09fb6/dior-galliano-2004_1j2Fp.jpg",
+          "title": "dior-galliano-2004.jpg",
+          "mimetype": "image/jpeg",
+          "size": 1096353,
+          "signedUrl": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/uploads/2024/03/25/e5e259977193c318cbb37a98561a74908dd09fb6/dior-galliano-2004_1j2Fp.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIATUJCOBWTKOMQ5JMU%2F20240329%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20240329T080440Z&X-Amz-Expires=7520&X-Amz-Signature=c12f7cac9175f4cfddda484541721369e42ec6f65d73fbe613fdd07a55833599&X-Amz-SignedHeaders=host&x-id=GetObject"
+        },
+        {
+          "url": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/uploads/2024/03/25/e5e259977193c318cbb37a98561a74908dd09fb6/haute-couture23_arZBG.jpg",
+          "title": "haute-couture23.jpg",
+          "mimetype": "image/jpeg",
+          "size": 1073187,
+          "signedUrl": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/uploads/2024/03/25/e5e259977193c318cbb37a98561a74908dd09fb6/haute-couture23_arZBG.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIATUJCOBWTKOMQ5JMU%2F20240329%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20240329T080440Z&X-Amz-Expires=7520&X-Amz-Signature=2230f3e88908b23612581b1edf85d723f95c392a3f740513937bf4cb6091c743&X-Amz-SignedHeaders=host&x-id=GetObject"
+        },
+        {
+          "url": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/uploads/2024/03/25/e5e259977193c318cbb37a98561a74908dd09fb6/issey-miyake_xJMli.jpg",
+          "title": "issey-miyake.jpg",
+          "mimetype": "image/jpeg",
+          "size": 434950,
+          "signedUrl": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/uploads/2024/03/25/e5e259977193c318cbb37a98561a74908dd09fb6/issey-miyake_xJMli.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIATUJCOBWTKOMQ5JMU%2F20240329%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20240329T080440Z&X-Amz-Expires=7520&X-Amz-Signature=090d7f177fb86c9b02612ed4cfcf268d7b9b2213df78404494da99cfe530bf4d&X-Amz-SignedHeaders=host&x-id=GetObject"
+        },
+        {
+          "url": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/uploads/2024/03/25/e5e259977193c318cbb37a98561a74908dd09fb6/mjojo cabinet_BgSJ7.jpg",
+          "title": "mjojo cabinet.jpg",
+          "mimetype": "image/jpeg",
+          "size": 228095,
+          "signedUrl": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/uploads/2024/03/25/e5e259977193c318cbb37a98561a74908dd09fb6/mjojo%20cabinet_BgSJ7.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIATUJCOBWTKOMQ5JMU%2F20240329%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20240329T080440Z&X-Amz-Expires=7520&X-Amz-Signature=05e76263a90485a2657fd38c29295d4421989cfe9100dcba25c9c7ef7eb14f81&X-Amz-SignedHeaders=host&x-id=GetObject"
+        },
+        {
+          "url": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/uploads/2024/03/25/e5e259977193c318cbb37a98561a74908dd09fb6/torque-coeur_1Fe-B.jpg",
+          "title": "torque-coeur.jpg",
+          "mimetype": "image/jpeg",
+          "size": 92679,
+          "signedUrl": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/uploads/2024/03/25/e5e259977193c318cbb37a98561a74908dd09fb6/torque-coeur_1Fe-B.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIATUJCOBWTKOMQ5JMU%2F20240329%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20240329T080440Z&X-Amz-Expires=7520&X-Amz-Signature=20ac5568358553aa7135153f5b8172725eea18e7b60570ba9452cdf7b137a590&X-Amz-SignedHeaders=host&x-id=GetObject"
+        }
+      ],
+      "curator": "Marie-Sophie CARRON DE LA CARRIÈRE, conservatrice en chef du patrimoine, collections mode et textiles<br />Éric PUJALET-PLAÀ, attaché de conservation, collections mode et textiles<br />Mathieu ROUSSET‑PERRIER, conservateur du patrimoine, collections Moyen Âge, Renaissance et bijoux\n\nAvec la participation de :<br />Juliette POLLET, conservatrice du patrimoine, collections modernes et contemporaines<br />Dominique FOREST, ancienne conservatrice en chef, collections modernes et contemporaines<br />Karine LACQUEMANT, ancienne attachée de conservation, collections modernes et contemporaines",
+      "activities": "**<u>ACTIVITÉS INDIVIDUELLES :</u>**\n\nINDIVIDUELS ADULTES\n\n**Parcours mode, bijoux, design :**\n\nVisite guidée adultes (15 ans et +), 1H30<br />\n\nINDIVIDUELS JEUNES ET FAMILLES\n\n**Bijou de métal :**\n\nAtelier 7-10 ans, 2H\n\nAtelier 11-14 ans<br />\n\n**<u>ACTIVITÉS POUR LES GROUPES :</u>**\n\nGROUPES ADULTES\n\n**Parcours mode, bijoux, design :**\n\nVisite guidée adulte en français et en anglais – 1h30 / 15 ans et +<br />\n\n**Bijou de métal :**\n\nVisite-atelier champ social adultes<br />\n\nGROUPES ÉDUCATION\n\n**Parcours mode, bijoux, design :**\n\nVisite guidée – 1h30 / À partir du lycée<br />\n\n**Bijou de métal :**\n\nVisite-atelier - 2h / Primaire (à partir de la grande section), collèges, lycées et familles",
+      "video": null,
+      "individualTickets": "https://billetterie.madparis.fr/activite/2850/",
+      "groupTickets": "https://billetterie.madparis.fr/activite/2853/",
+      "audioGuide": null,
+      "IndividualActivities": "INDIVIDUELS ADULTES\nParcours mode, bijoux, design :\nVisite guidée adultes (15 ans et +), 1H30\nINDIVIDUELS JEUNES ET FAMILLES\nBijou de métal :\nAtelier 7-10 ans, 2H\nAtelier 11-14 ans\n",
+      "groupActivities": "GROUPES ADULTES\nParcours mode, bijoux, design :\nVisite guidée adulte en français et en anglais – 1h30 / 15 ans et +\nBijou de métal :\nVisite-atelier champ social adultes\nGROUPES ÉDUCATION\nParcours mode, bijoux, design :\nVisite guidée – 1h30 / À partir du lycée\nBijou de métal :\nVisite-atelier - 2h / Primaire (à partir de la grande section), collèges, lycées et familles",
+      "length": 5400,
+      "CreatedAt": "2024-03-25 13:38:07+00:00",
+      "UpdatedAt": "2024-03-29 03:08:59+00:00"
+    },
+    {
+      "Id": 5,
+      "title": "LA MAISON POUR TOUS. UNE PHOTOGRAPHIE SOCIALE DANS LES ANNÉES 80",
+      "thumbnail": [
+        {
+          "url": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/uploads/2024/03/25/e5e259977193c318cbb37a98561a74908dd09fb6/carros1_wz5tY.jpg",
+          "title": "carros1.jpg",
+          "mimetype": "image/jpeg",
+          "size": 812282,
+          "signedUrl": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/uploads/2024/03/25/e5e259977193c318cbb37a98561a74908dd09fb6/carros1_wz5tY.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIATUJCOBWTKOMQ5JMU%2F20240329%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20240329T080440Z&X-Amz-Expires=7520&X-Amz-Signature=2aef3b6a35cc05bf9a663a7dd05a4612105eff572dd9c88b627cb6f07c08b6e0&X-Amz-SignedHeaders=host&x-id=GetObject"
+        }
+      ],
+      "startDate": "2023-11-08",
+      "endDate": "2024-01-28",
+      "description": "À l’occasion de Paris Photo et de Photo Days, le musée des Arts décoratifs présente du 7 novembre 2023 au 28 janvier 2024 « La maison pour tous. Une photographie sociale dans les années 80 ». Plus de 100 photographies accompagnées d’affiches, films publicitaires, livres ou magazines issus des collections du musée mettent en lumière pour la première fois le fonds photographique donné par Marc Netter en 2023. Ce fonds illustre l’utopie sociale de la ville nouvelle à travers une enquête photographique menée en 1983 dans la ville de Carros (Alpes-Maritimes).",
+      "images": [
+        {
+          "url": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/uploads/2024/03/25/e5e259977193c318cbb37a98561a74908dd09fb6/carros1_Q__6X.jpg",
+          "title": "carros1.jpg",
+          "mimetype": "image/jpeg",
+          "size": 812282,
+          "signedUrl": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/uploads/2024/03/25/e5e259977193c318cbb37a98561a74908dd09fb6/carros1_Q__6X.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIATUJCOBWTKOMQ5JMU%2F20240329%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20240329T080440Z&X-Amz-Expires=7520&X-Amz-Signature=af59bb3712872708f6d6f2d3f81e504d733b64ff5d46458c014d0bb5c25b72fd&X-Amz-SignedHeaders=host&x-id=GetObject"
+        },
+        {
+          "url": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/uploads/2024/03/25/e5e259977193c318cbb37a98561a74908dd09fb6/carros2_wvs3d.jpg",
+          "title": "carros2.jpg",
+          "mimetype": "image/jpeg",
+          "size": 348690,
+          "signedUrl": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/uploads/2024/03/25/e5e259977193c318cbb37a98561a74908dd09fb6/carros2_wvs3d.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIATUJCOBWTKOMQ5JMU%2F20240329%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20240329T080440Z&X-Amz-Expires=7520&X-Amz-Signature=98b4f15ca80be4ef5c8a61b6e98b9d61220507677d6427f3e2e6361b37c33de1&X-Amz-SignedHeaders=host&x-id=GetObject"
+        },
+        {
+          "url": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/uploads/2024/03/25/e5e259977193c318cbb37a98561a74908dd09fb6/carros3_0tniw.jpg",
+          "title": "carros3.jpg",
+          "mimetype": "image/jpeg",
+          "size": 278215,
+          "signedUrl": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/uploads/2024/03/25/e5e259977193c318cbb37a98561a74908dd09fb6/carros3_0tniw.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIATUJCOBWTKOMQ5JMU%2F20240329%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20240329T080440Z&X-Amz-Expires=7520&X-Amz-Signature=48dcf8eede7a71368e24a3b042ea7b8c59db98f74eed8e27df3f296c409371eb&X-Amz-SignedHeaders=host&x-id=GetObject"
+        },
+        {
+          "url": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/uploads/2024/03/25/e5e259977193c318cbb37a98561a74908dd09fb6/carros4_WVWK_.jpg",
+          "title": "carros4.jpg",
+          "mimetype": "image/jpeg",
+          "size": 652120,
+          "signedUrl": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/uploads/2024/03/25/e5e259977193c318cbb37a98561a74908dd09fb6/carros4_WVWK_.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIATUJCOBWTKOMQ5JMU%2F20240329%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20240329T080440Z&X-Amz-Expires=7520&X-Amz-Signature=351f6943fb2682c61ab43f14b870ab049e90c9d5b9e59d68be65e705283e6718&X-Amz-SignedHeaders=host&x-id=GetObject"
+        },
+        {
+          "url": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/uploads/2024/03/25/e5e259977193c318cbb37a98561a74908dd09fb6/carros5_onJi5.jpg",
+          "title": "carros5.jpg",
+          "mimetype": "image/jpeg",
+          "size": 515315,
+          "signedUrl": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/uploads/2024/03/25/e5e259977193c318cbb37a98561a74908dd09fb6/carros5_onJi5.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIATUJCOBWTKOMQ5JMU%2F20240329%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20240329T080440Z&X-Amz-Expires=7520&X-Amz-Signature=172f5d82e6509354684283cb427b36f34c55d08b50533957ef51b384b2b122fa&X-Amz-SignedHeaders=host&x-id=GetObject"
+        },
+        {
+          "url": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/uploads/2024/03/25/e5e259977193c318cbb37a98561a74908dd09fb6/entree-maison-pour-tous_-xBPB.jpg",
+          "title": "entree-maison-pour-tous.jpg",
+          "mimetype": "image/jpeg",
+          "size": 899428,
+          "signedUrl": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/uploads/2024/03/25/e5e259977193c318cbb37a98561a74908dd09fb6/entree-maison-pour-tous_-xBPB.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIATUJCOBWTKOMQ5JMU%2F20240329%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20240329T080440Z&X-Amz-Expires=7520&X-Amz-Signature=fe2d6fe1ee14a5f5cb8ce511c2fcf1918c2d96ff89fa14c6874077622cb0acd4&X-Amz-SignedHeaders=host&x-id=GetObject"
+        },
+        {
+          "url": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/uploads/2024/03/25/e5e259977193c318cbb37a98561a74908dd09fb6/escalier_Kuqgc.jpg",
+          "title": "escalier.jpg",
+          "mimetype": "image/jpeg",
+          "size": 818952,
+          "signedUrl": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/uploads/2024/03/25/e5e259977193c318cbb37a98561a74908dd09fb6/escalier_Kuqgc.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIATUJCOBWTKOMQ5JMU%2F20240329%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20240329T080440Z&X-Amz-Expires=7520&X-Amz-Signature=8d980fb87dc190f41f10748c89367bf6995b9661d7c0277d779ec69c408c54c3&X-Amz-SignedHeaders=host&x-id=GetObject"
+        },
+        {
+          "url": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/uploads/2024/03/25/e5e259977193c318cbb37a98561a74908dd09fb6/garcon-pistolets_UJ1iG.jpg",
+          "title": "garcon-pistolets.jpg",
+          "mimetype": "image/jpeg",
+          "size": 292267,
+          "signedUrl": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/uploads/2024/03/25/e5e259977193c318cbb37a98561a74908dd09fb6/garcon-pistolets_UJ1iG.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIATUJCOBWTKOMQ5JMU%2F20240329%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20240329T080440Z&X-Amz-Expires=7520&X-Amz-Signature=780866540f3c159044649b065efe2933c51adeceb7bad52958d5e42d57f3df5c&X-Amz-SignedHeaders=host&x-id=GetObject"
+        },
+        {
+          "url": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/uploads/2024/03/25/e5e259977193c318cbb37a98561a74908dd09fb6/madame-c_trl7F.jpg",
+          "title": "madame-c.jpg",
+          "mimetype": "image/jpeg",
+          "size": 474451,
+          "signedUrl": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/uploads/2024/03/25/e5e259977193c318cbb37a98561a74908dd09fb6/madame-c_trl7F.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIATUJCOBWTKOMQ5JMU%2F20240329%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20240329T080440Z&X-Amz-Expires=7520&X-Amz-Signature=92135fa0f8af0434abdecc5253af1c9db9f2ae56851451659778e3bf2c7152a1&X-Amz-SignedHeaders=host&x-id=GetObject"
+        }
+      ],
+      "curator": "Sébastien QUÉQUET, attaché de conservation, collections photographiques",
+      "activities": "**<u>ACTIVITÉS INDIVIDUELLES :</u>**\n\nN/A\n\n**<u>ACTIVITÉS POUR LES GROUPES :</u>**\n\nN/A",
+      "video": "<iframe width=\"1090\" height=\"614\" src=\"https://www.youtube.com/embed/FW1QNoWrYHc\" title=\"La maison pour tous. Une photographie sociale dans les années 80\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+      "individualTickets": null,
+      "groupTickets": null,
+      "audioGuide": null,
+      "IndividualActivities": "N/A",
+      "groupActivities": "N/A",
+      "length": 0,
+      "CreatedAt": "2024-03-25 13:54:54+00:00",
+      "UpdatedAt": "2024-03-29 03:09:21+00:00"
+    }
+  ],
+  "pageInfo": {
+    "totalRows": 5,
+    "page": 1,
+    "pageSize": 25,
+    "isFirstPage": true,
+    "isLastPage": true
+  },
+  "stats": {
+    "dbQueryTime": "14.436"
+  }
+}

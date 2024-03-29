@@ -1,0 +1,184 @@
+{
+  "list": [
+    {
+      "Id": 1,
+      "shortName": "historiques",
+      "longName": "Les collections historiques",
+      "thumbnail": [
+        {
+          "url": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/uploads/2024/03/25/e5e259977193c318cbb37a98561a74908dd09fb6/sauciere_KcuZP.jpg",
+          "title": "sauciere.jpg",
+          "mimetype": "image/jpeg",
+          "size": 819102,
+          "signedUrl": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/uploads/2024/03/25/e5e259977193c318cbb37a98561a74908dd09fb6/sauciere_KcuZP.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIATUJCOBWTKOMQ5JMU%2F20240329%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20240329T080441Z&X-Amz-Expires=7519&X-Amz-Signature=79a2d71e7cb9226fbe3e485a1453079150147c522dce5b594c6931baaf74bb5f&X-Amz-SignedHeaders=host&x-id=GetObject"
+        }
+      ],
+      "CreatedAt": "2024-03-25 14:36:37+00:00",
+      "UpdatedAt": "2024-03-25 19:10:34+00:00",
+      "collections": 5
+    },
+    {
+      "Id": 2,
+      "shortName": "modernes & contemporaines",
+      "longName": "Les collections modernes et contemporaines - design des XXe et XXIe siècles",
+      "thumbnail": [
+        {
+          "url": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/uploads/2024/03/25/e5e259977193c318cbb37a98561a74908dd09fb6/chaise-longue_hhggo.jpg",
+          "title": "chaise-longue.jpg",
+          "mimetype": "image/jpeg",
+          "size": 653778,
+          "signedUrl": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/uploads/2024/03/25/e5e259977193c318cbb37a98561a74908dd09fb6/chaise-longue_hhggo.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIATUJCOBWTKOMQ5JMU%2F20240329%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20240329T080441Z&X-Amz-Expires=7519&X-Amz-Signature=1dae5046ea2cbb2cbece1221b4daf9c531b7c34093fbdee01c2df9459ad8475e&X-Amz-SignedHeaders=host&x-id=GetObject"
+        }
+      ],
+      "CreatedAt": "2024-03-25 14:36:48+00:00",
+      "UpdatedAt": "2024-03-29 08:32:46+00:00",
+      "collections": 3
+    },
+    {
+      "Id": 3,
+      "shortName": "bijoux",
+      "longName": "Les collections de bijoux",
+      "thumbnail": [
+        {
+          "url": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/uploads/2024/03/25/e5e259977193c318cbb37a98561a74908dd09fb6/boucle-oreilles_AhnSI.jpg",
+          "title": "boucle-oreilles.jpg",
+          "mimetype": "image/jpeg",
+          "size": 408200,
+          "signedUrl": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/uploads/2024/03/25/e5e259977193c318cbb37a98561a74908dd09fb6/boucle-oreilles_AhnSI.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIATUJCOBWTKOMQ5JMU%2F20240329%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20240329T080441Z&X-Amz-Expires=7519&X-Amz-Signature=e87eeb87d6e45954cdd4d9f3cf3040f569341c57453a8095ec77d13c2db81776&X-Amz-SignedHeaders=host&x-id=GetObject"
+        }
+      ],
+      "CreatedAt": "2024-03-25 14:37:41+00:00",
+      "UpdatedAt": "2024-03-25 19:10:57+00:00",
+      "collections": 1
+    },
+    {
+      "Id": 4,
+      "shortName": "art asiatique & islam",
+      "longName": " Les collections d’arts asiatiques et d’arts de l’islam",
+      "thumbnail": [
+        {
+          "url": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/uploads/2024/03/25/e5e259977193c318cbb37a98561a74908dd09fb6/plat-dragon_mGVCu.jpg",
+          "title": "plat-dragon.jpg",
+          "mimetype": "image/jpeg",
+          "size": 737297,
+          "signedUrl": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/uploads/2024/03/25/e5e259977193c318cbb37a98561a74908dd09fb6/plat-dragon_mGVCu.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIATUJCOBWTKOMQ5JMU%2F20240329%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20240329T080441Z&X-Amz-Expires=7519&X-Amz-Signature=691814dd3dbc3424bbc25a252d1ffecf88de08b35a2b253fbea56df9e2ea7233&X-Amz-SignedHeaders=host&x-id=GetObject"
+        }
+      ],
+      "CreatedAt": "2024-03-25 14:41:35+00:00",
+      "UpdatedAt": "2024-03-25 19:11:25+00:00",
+      "collections": 1
+    },
+    {
+      "Id": 5,
+      "shortName": "verre",
+      "longName": "Les collections de verre",
+      "thumbnail": [
+        {
+          "url": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/uploads/2024/03/25/e5e259977193c318cbb37a98561a74908dd09fb6/meitner_m5Xlc.jpg",
+          "title": "meitner.jpg",
+          "mimetype": "image/jpeg",
+          "size": 645753,
+          "signedUrl": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/uploads/2024/03/25/e5e259977193c318cbb37a98561a74908dd09fb6/meitner_m5Xlc.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIATUJCOBWTKOMQ5JMU%2F20240329%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20240329T080441Z&X-Amz-Expires=7519&X-Amz-Signature=9f5e0358e3e3a7cea3965106e320ee64d7cd31c5478a75ba15bdca671190beaa&X-Amz-SignedHeaders=host&x-id=GetObject"
+        }
+      ],
+      "CreatedAt": "2024-03-25 14:41:58+00:00",
+      "UpdatedAt": "2024-03-25 19:11:36+00:00",
+      "collections": 1
+    },
+    {
+      "Id": 6,
+      "shortName": "mode & textile",
+      "longName": "Les collections de mode et de textile",
+      "thumbnail": [
+        {
+          "url": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/uploads/2024/03/25/e5e259977193c318cbb37a98561a74908dd09fb6/details-de-la-cape_PNhWY.jpg",
+          "title": "details-de-la-cape.jpg",
+          "mimetype": "image/jpeg",
+          "size": 455384,
+          "signedUrl": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/uploads/2024/03/25/e5e259977193c318cbb37a98561a74908dd09fb6/details-de-la-cape_PNhWY.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIATUJCOBWTKOMQ5JMU%2F20240329%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20240329T080441Z&X-Amz-Expires=7519&X-Amz-Signature=f947701322f986fc7eb567a3d4d377c1cd1256edcfa0f723c88e4477c39a92eb&X-Amz-SignedHeaders=host&x-id=GetObject"
+        }
+      ],
+      "CreatedAt": "2024-03-25 14:42:25+00:00",
+      "UpdatedAt": "2024-03-25 19:11:47+00:00",
+      "collections": 3
+    },
+    {
+      "Id": 7,
+      "shortName": "jouets",
+      "longName": "Les collections de jouets",
+      "thumbnail": [
+        {
+          "url": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/uploads/2024/03/25/e5e259977193c318cbb37a98561a74908dd09fb6/ours_NpMzp.jpg",
+          "title": "ours.jpg",
+          "mimetype": "image/jpeg",
+          "size": 920905,
+          "signedUrl": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/uploads/2024/03/25/e5e259977193c318cbb37a98561a74908dd09fb6/ours_NpMzp.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIATUJCOBWTKOMQ5JMU%2F20240329%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20240329T080441Z&X-Amz-Expires=7519&X-Amz-Signature=6bf48615cb3d7f133b96419ccc173d628b15ca82158b33f35165aac5a66b4804&X-Amz-SignedHeaders=host&x-id=GetObject"
+        }
+      ],
+      "CreatedAt": "2024-03-25 14:42:51+00:00",
+      "UpdatedAt": "2024-03-25 19:11:55+00:00",
+      "collections": 1
+    },
+    {
+      "Id": 8,
+      "shortName": "dessins, papier peints & photo",
+      "longName": " Les collections de dessins, de papiers peints et de photographies",
+      "thumbnail": [
+        {
+          "url": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/uploads/2024/03/25/e5e259977193c318cbb37a98561a74908dd09fb6/bureau-bibliotheque_sw0MV.jpg",
+          "title": "bureau-bibliotheque.jpg",
+          "mimetype": "image/jpeg",
+          "size": 757121,
+          "signedUrl": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/uploads/2024/03/25/e5e259977193c318cbb37a98561a74908dd09fb6/bureau-bibliotheque_sw0MV.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIATUJCOBWTKOMQ5JMU%2F20240329%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20240329T080441Z&X-Amz-Expires=7519&X-Amz-Signature=54ac6f3c1ca054ec77d4926566209968e564078bd129f6ee8cc634a47ee95d72&X-Amz-SignedHeaders=host&x-id=GetObject"
+        }
+      ],
+      "CreatedAt": "2024-03-25 14:43:16+00:00",
+      "UpdatedAt": "2024-03-25 19:12:03+00:00",
+      "collections": 3
+    },
+    {
+      "Id": 9,
+      "shortName": "graphisme, pub",
+      "longName": " Les collections de design graphique et de publicité, affiches et imprimés, objets et films publicitaires",
+      "thumbnail": [
+        {
+          "url": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/uploads/2024/03/25/e5e259977193c318cbb37a98561a74908dd09fb6/jardin-de-paris_l28ok.jpg",
+          "title": "jardin-de-paris.jpg",
+          "mimetype": "image/jpeg",
+          "size": 2872264,
+          "signedUrl": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/uploads/2024/03/25/e5e259977193c318cbb37a98561a74908dd09fb6/jardin-de-paris_l28ok.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIATUJCOBWTKOMQ5JMU%2F20240329%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20240329T080441Z&X-Amz-Expires=7519&X-Amz-Signature=46aa9c6475e76dda601a2b912b1eca94f94ef7352acc9c98b806b966a2ed696e&X-Amz-SignedHeaders=host&x-id=GetObject"
+        }
+      ],
+      "CreatedAt": "2024-03-25 14:44:32+00:00",
+      "UpdatedAt": "2024-03-25 19:12:17+00:00",
+      "collections": 1
+    },
+    {
+      "Id": 10,
+      "shortName": "bibliothèques, archives & doc",
+      "longName": " La bibliothèque, les archives et la documentation",
+      "thumbnail": [
+        {
+          "url": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/uploads/2024/03/25/e5e259977193c318cbb37a98561a74908dd09fb6/page_femina_6_TBeuI.jpg",
+          "title": "page_femina_6.jpg",
+          "mimetype": "image/jpeg",
+          "size": 842600,
+          "signedUrl": "https://nocohub-001-prod-app-attachments.s3.us-east-2.amazonaws.com/nc/uploads/2024/03/25/e5e259977193c318cbb37a98561a74908dd09fb6/page_femina_6_TBeuI.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIATUJCOBWTKOMQ5JMU%2F20240329%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20240329T080441Z&X-Amz-Expires=7519&X-Amz-Signature=82df8b3ab9b377fbc44d40ab3f3f47468527a4558279499521df6843469ef595&X-Amz-SignedHeaders=host&x-id=GetObject"
+        }
+      ],
+      "CreatedAt": "2024-03-25 14:45:26+00:00",
+      "UpdatedAt": "2024-03-25 19:12:28+00:00",
+      "collections": 1
+    }
+  ],
+  "pageInfo": {
+    "totalRows": 10,
+    "page": 1,
+    "pageSize": 25,
+    "isFirstPage": true,
+    "isLastPage": true
+  },
+  "stats": {
+    "dbQueryTime": "6.240"
+  }
+}
