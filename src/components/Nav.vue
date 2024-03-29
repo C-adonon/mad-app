@@ -2,7 +2,7 @@
     <ion-menu side="end" content-id="main-content" class="ion-padding">
         <ion-header>
             <ion-toolbar>
-                <ion-menu-toggle><ion-icon :icon="close" size="large"></ion-icon></ion-menu-toggle>
+                <ion-menu-toggle class="ion-padding"><ion-icon :icon="close" size="large"></ion-icon></ion-menu-toggle>
             </ion-toolbar>
         </ion-header>
         <ion-content class="ion-padding">
