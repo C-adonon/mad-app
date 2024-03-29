@@ -19,12 +19,7 @@
                 </ion-item>
                 <ion-item>
                     <ion-menu-toggle>
-                        <ion-label router-link="/">Activité</ion-label>
-                    </ion-menu-toggle>
-                </ion-item>
-                <ion-item>
-                    <ion-menu-toggle>
-                        <ion-label router-link="/about">Information</ion-label>
+                        <ion-label router-link="/about">Informations</ion-label>
                     </ion-menu-toggle>
                 </ion-item>
             </ion-list>
@@ -48,9 +43,7 @@
 
 <script setup lang="ts">
 import { close } from 'ionicons/icons';
-import { IonButtons, IonContent, IonHeader, IonMenu, IonMenuButton, IonPage, IonTitle, IonToolbar, IonList, IonLabel, IonItem, IonThumbnail, IonMenuToggle, IonIcon } from '@ionic/vue';
-import { defineComponent } from 'vue';
-
+import { IonButtons, IonContent, IonHeader, IonMenu, IonMenuButton, IonTitle, IonToolbar, IonList, IonLabel, IonItem, IonThumbnail, IonMenuToggle, IonIcon } from '@ionic/vue';
 </script>
 
 <style scoped>

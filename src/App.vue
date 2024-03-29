@@ -1,7 +1,7 @@
 <template>
   <ion-app>
     <Nav />
-    <ion-router-outlet />
+    <ion-router-outlet/>
   </ion-app>
 </template>
 

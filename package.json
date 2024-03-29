@@ -21,9 +21,13 @@
     "@ionic/vue": "^7.0.0",
     "@ionic/vue-router": "^7.0.0",
     "ionicons": "^7.0.0",
-    "leaflet": "^1.9.4",
+    "ol": "^9.1.0",
+    "ol-contextmenu": "^5.4.0",
+    "ol-ext": "^4.0.17",
+    "swiper": "^11.1.0",
     "vue": "^3.3.0",
-    "vue-router": "^4.2.0"
+    "vue-router": "^4.2.0",
+    "vue3-openlayers": "^6.3.0"
   },
   "devDependencies": {
     "@capacitor/cli": "5.7.4",

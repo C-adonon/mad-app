@@ -1,7 +1,7 @@
 <template>
     <ion-page>
-        <ion-content>
-            <h1>A propos</h1>
+        <ion-content class="ion-padding">
+            <h1>Informations</h1>
             <div class="history">
                 <h2>Histoire</h2>
                 <p>
@@ -28,13 +28,15 @@
             </div>
             <div class="location">
                 <h2>Localisation</h2>
-                <p>Les Arts Décoratifs sont présents sur trois sites à Paris : rue de Rivoli (75001), rue de Monceau
-                    (75008) et boulevard Raspail (75014).</p>
                 <div>
                     <p> Les différentes composantes des Arts décoratifs sont installées sur trois sites à Paris :</p>
                     <ul>
                         <li>
-                            au 107, rue de Rivoli, les ailes de Rohan et de Marsan du palais du Louvre abritent le musée
+                            au <strong class="pink-text">107, rue de Rivoli (75001)</strong>, les ailes de Rohan et de
+                            Marsan du palais du
+                            Louvre abritent
+                            le
+                            musée
                             des
                             Arts
                             décoratifs (collections d'arts décoratifs, mode et textile, publicité) et la bibliothèque
@@ -43,10 +45,14 @@
                             décoratifs ;
                         </li>
                         <li>
-                            au 63, rue de Monceau, se trouve le musée Nissim-de-Camondo ;
+                            au <strong class="pink-text">63, rue de Monceau (75008)</strong>, se trouve le musée
+                            Nissim-de-Camondo ;
                         </li>
                         <li>
-                            au 266, boulevard Raspail est installée depuis 1988 l’école Camondo (appellation née d'une
+                            au <strong class="pink-text">266, boulevard Raspail (75014)</strong> est installée depuis
+                            1988 l’école Camondo
+                            (appellation née
+                            d'une
                             implantation
                             antérieure dans les communs de l'hôtel Camondo), spécialisée dans le design et
                             l’architecture
@@ -62,50 +68,39 @@
                 <h2>Horaires</h2>
                 <p>
                     Les Arts décoratifs sont ouverts tous les jours sauf le lundi et certains jours fériés.
-                </p>
-                <p>
                     Les horaires d'ouverture sont les suivants :
+                </p>
+                <h3 class="pink-text">Musée des Arts décoratifs :</h3>
+                <h4>Jusqu’au 28 avril :</h4>
                 <ul>
                     <li>
-                        <h3>Musée des Arts décoratifs :</h3>
-                        <h4>Jusqu’au 28 avril :</h4>
-                        <ul>
-                            <li>
-                                Le mardi et le mercredi de 11h à 18h
-                                Fermeture des caisses à 17h15
-                            </li>
-                            <li>
-                                Nocturnes le jeudi, vendredi et le samedi jusqu’à 21h
-                                Fermeture des caisses à 20h15
-                            </li>
-                            <li>
-                                Nocturne le dimanche jusqu’à 20h
-                                Fermeture des caisses à 19h15
-                            </li>
-                        </ul>
-
-                        <h4>À partir du 29 avril :</h4>
-                        <ul>
-                            <li>
-                                Le mardi, mercredi, vendredi, samedi et dimanche de 11h à 18h
-                                Fermeture des caisses à 17h15
-                            </li>
-                            <li>
-                                Nocturnes le jeudi jusqu’à 21h
-                                Fermeture des caisses à 20h15
-                            </li>
-                        </ul>
+                        Le mardi et le mercredi de 11h à 18h
+                        Fermeture des caisses à 17h15
                     </li>
                     <li>
-                        <h3> Musée Nissim-de-Camondo :</h3>
-                        <p>10h-17h</p>
+                        Nocturnes le jeudi, vendredi et le samedi jusqu’à 21h
+                        Fermeture des caisses à 20h15
                     </li>
                     <li>
-                        <h3>Bibliothèque des Arts décoratifs :</h3>
-                        <p> 14h-19h</p>
+                        Nocturne le dimanche jusqu’à 20h
+                        Fermeture des caisses à 19h15
                     </li>
                 </ul>
-                </p>
+                <h4>À partir du 29 avril :</h4>
+                <ul>
+                    <li>
+                        Le mardi, mercredi, vendredi, samedi et dimanche de 11h à 18h
+                        Fermeture des caisses à 17h15
+                    </li>
+                    <li>
+                        Nocturnes le jeudi jusqu’à 21h
+                        Fermeture des caisses à 20h15
+                    </li>
+                </ul>
+                <h3 class="pink-text"> Musée Nissim-de-Camondo :</h3>
+                <p>10h-17h</p>
+                <h3 class="pink-text">Bibliothèque des Arts décoratifs :</h3>
+                <p> 14h-19h</p>
             </div>
             <div class="tarif">
 
@@ -118,3 +113,9 @@
 import { IonPage, IonContent } from '@ionic/vue';
 import { ref, onMounted } from 'vue';
 </script>
+
+<style scoped>
+ion-content div{
+    margin-bottom: 10%;
+}
+</style>

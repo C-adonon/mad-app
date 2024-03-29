@@ -24,7 +24,15 @@ import "@ionic/vue/css/display.css";
 // import './theme/variables.css';
 import "./theme/mad-theme.css";
 
-const app = createApp(App).use(IonicVue).use(router);
+// OpenLayers
+import OpenLayersMap from "vue3-openlayers";
+import "vue3-openlayers/styles.css";
+
+// Swiper
+import { register } from "swiper/element/bundle";
+register();
+
+const app = createApp(App).use(IonicVue).use(router).use(OpenLayersMap);
 
 router.isReady().then(() => {
   app.mount("#app");
